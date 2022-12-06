@@ -26,11 +26,11 @@ header p {
     font-size: 1.6rem;
     text-align: center;
 }
-.container {
+#container {
     background-color:white;
     padding: 1px;
 }
-.container p {
+#container p {
     text-align: center;
     font-size: 1.8rem;
     min-height: 50px;
